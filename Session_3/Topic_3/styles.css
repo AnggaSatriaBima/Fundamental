@@ -1,0 +1,14 @@
+div {
+  background-color: aqua;
+  color: white;
+}
+
+/* class selector */
+.classsaya {
+  background-color: black;
+}
+
+/* id selector */
+#idaku {
+  background-color: red;
+}
